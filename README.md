@@ -45,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
