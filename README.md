@@ -61,12 +61,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0242-valid-anagram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## String
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0242-valid-anagram) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+## Counting
+|  |
+| ------- |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
