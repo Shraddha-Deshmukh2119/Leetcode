@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0075-sort-colors) |
+| [0435-non-overlapping-intervals](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0948-sort-an-array) |
 ## Two Pointers
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0242-valid-anagram) |
+| [0435-non-overlapping-intervals](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0948-sort-an-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0948-sort-an-array) |
 ## Sliding Window
 |  |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0948-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0435-non-overlapping-intervals) |
+## Greedy
+|  |
+| ------- |
+| [0435-non-overlapping-intervals](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0435-non-overlapping-intervals) |
 <!---LeetCode Topics End-->
