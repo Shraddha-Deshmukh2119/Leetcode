@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0189-rotate-array) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0189-rotate-array) |
 | [0435-non-overlapping-intervals](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0792-binary-search](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0908-middle-of-the-linked-list) |
