@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0242-valid-anagram) |
+| [1205-defanging-an-ip-address](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
