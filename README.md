@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0344-reverse-string) |
+| [0874-backspace-string-compare](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0874-backspace-string-compare) |
 | [1205-defanging-an-ip-address](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Matrix
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0054-spiral-matrix) |
+| [0874-backspace-string-compare](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
