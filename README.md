@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0268-missing-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0792-binary-search) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0268-missing-number) |
 | [0435-non-overlapping-intervals](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0941-sort-array-by-parity](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0948-sort-an-array) |
@@ -174,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0907-koko-eating-bananas) |
@@ -224,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0496-next-greater-element-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Shraddha-Deshmukh2119/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
